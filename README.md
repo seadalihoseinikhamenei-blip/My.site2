@@ -15,11 +15,10 @@
 
 ## 🪖 ABOUT ME | درباره من
 
-سلام! من علی هستم.
+hello!am Mohammad Hossein.
+Network and Software Engineering student and interested in the world of programming and information technology.
 
-دانش‌آموز رشته شبکه و نرم‌افزار و علاقه‌مند به دنیای برنامه‌نویسی و فناوری اطلاعات.
-
-تخصص و علاقه اصلی من طراحی و توسعه وب‌سایت است و تلاش می‌کنم با یادگیری مهارت‌های جدید، پروژه‌های خلاقانه و کاربردی بسازم.
+My main expertise and interest is website design and development, and I strive to create creative and practical projects by learning new skills.
 
 - 🎓 Network & Software Student
 - 💻 Web Designer & Developer
